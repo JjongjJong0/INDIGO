@@ -24,7 +24,7 @@ a {
 }
 
 h1 {
-    font-size: 0;
+    font-size: 30px;
     font-weight: normal;
 }
 
@@ -34,12 +34,13 @@ h2 {
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: normal;
 }
 
 p {
     font-size: 14px;
+    color: #000;
 }
 
 header,
